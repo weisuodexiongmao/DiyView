@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiyView.iml" filepath="$PROJECT_DIR$/DiyView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbus2/eventbus2.iml" filepath="$PROJECT_DIR$/eventbus2/eventbus2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbuts/eventbuts.iml" filepath="$PROJECT_DIR$/eventbuts/eventbuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gif/gif.iml" filepath="$PROJECT_DIR$/gif/gif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit1/retrofit1.iml" filepath="$PROJECT_DIR$/retrofit1/retrofit1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit二次封装/retrofit二次封装.iml" filepath="$PROJECT_DIR$/retrofit二次封装/retrofit二次封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/日考20171130/日考20171130.iml" filepath="$PROJECT_DIR$/日考20171130/日考20171130.iml" />
+      <module fileurl="file://$PROJECT_DIR$/日考20171201/日考20171201.iml" filepath="$PROJECT_DIR$/日考20171201/日考20171201.iml" />
+    </modules>
+  </component>
+</project>
